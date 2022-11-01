@@ -1,0 +1,5 @@
+# add all include folders and files
+git add -A
+
+# remove all git add .
+git rm -r --cached
